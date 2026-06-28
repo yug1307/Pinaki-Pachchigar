@@ -101,7 +101,7 @@ const About = () => {
             Ready to uncover the path written in your stars?
           </p>
 
-          <a href="/contact" className="bg-yellow-500 w-1/6 inline-block font-semibold text-lg p-3 my-3 rounded-full">Get in Touch</a>
+          <a href="/contact" className="bg-yellow-500 w-1/2 md:w-1/6 inline-block font-semibold text-lg p-3 my-3 rounded-full">Get in Touch</a>
         </div>
       </section>
       <FooterOne/>
