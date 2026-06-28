@@ -46,8 +46,7 @@ const CareerPage = () => {
     <Topbar/>
     {/* Header Section */}
       <header 
-        className="lg:h-[125vh] h-auto py-6 object-cover bg-cover bg-center bg-no-repeat 
-        space-y-6 flex flex-col justify-center"
+        className="lg:h-[125vh] h-auto py-10 px-4 object-cover bg-cover bg-center bg-no-repeat space-y-6 flex flex-col justify-center"
         style={{backgroundImage: `url('/images/career-bg.jpg')`, fontFamily: `serif`}}>
  
         <section className="text-center space-y-2 px-4">
