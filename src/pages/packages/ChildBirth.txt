@@ -1,0 +1,10 @@
+| Included Item                                     |         Icon (React) | Meaning                                        |
+| ------------------------------------------------- | -------------------: | ---------------------------------------------- |
+| Birth Chart Reading for the Child                 |     `<FaChartPie />` | Visual/chart analysis of planetary placements  |
+| Health, behavior & personality profiling          |    `<FaHeartbeat />` | Vitality, wellbeing and temperament            |
+| Life path & future prediction (basic to detailed) |         `<FaRoad />` | Life direction, milestones and destiny         |
+| Education & talent analysis                       |     `<FaBookOpen />` | Learning potential, talents and study guidance |
+| Shubh Muhurat for childbirth (if required)        |  `<FaCalendarAlt />` | Auspicious timing / date selection             |
+| Dosha identification & protective remedies        |    `<FaShieldAlt />` | Detection of doshas and protective measures    |
+| Name suggestion based on Numerology + Nakshatra   |    `<FaSignature />` | Signature/name/vibration alignment             |
+| Spiritual guidelines for early upbringing         | `<FaPrayingHands />` | Mantras, rituals and spiritual parenting tips  |

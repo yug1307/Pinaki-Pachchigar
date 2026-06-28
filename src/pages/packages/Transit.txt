@@ -1,0 +1,12 @@
+| Icon | Point                                     | Description                                                                                              |
+| ---- | ----------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| 🌞   | **Planetary Transit Overview**            | Detailed impact of major transits like Saturn, Jupiter, Rahu, and Ketu on your birth chart.              |
+| 🌙   | **Your Personal Annual Forecast**         | Understand how each month and quarter will unfold for you in career, finance, health, and relationships. |
+| 🪐   | **Favorable & Challenging Periods**       | Learn the best times for important actions — investments, partnerships, or personal growth.              |
+| 💫   | **Planetary Remedies**                    | Receive tailored gemstone, mantra, and color remedies to balance planetary influences.                   |
+| 🌿   | **Karma & Life Lessons**                  | Discover the spiritual reasons behind repeating patterns or obstacles in your current cycle.             |
+| 🔮   | **Health & Emotional Stability Forecast** | Insights into mental and physical health phases influenced by transits.                                  |
+| 💰   | **Career & Financial Outlook**            | See when opportunities, promotions, or financial shifts are most likely to occur.                        |
+| ❤️   | **Relationship & Family Dynamics**        | Predict relationship highs and lows based on planetary alignments.                                       |
+| ⚖️   | **Major Planetary Returns**               | Understand how Saturn return or Jupiter transit marks turning points in your destiny.                    |
+| 🕉️  | **Spiritual Growth Forecast**             | Learn how the upcoming year can support meditation, healing, and inner awakening.                        |
