@@ -26,7 +26,7 @@ const KundliPage = () => {
     <>
     <Topbar />
       <header
-        className="lg:h-[120vh] h-[60vh] object-cover bg-cover bg-center bg-no-repeat flex flex-col justify-center"
+        className="lg:h-[120vh] h-auto py-10 px-4 object-cover bg-cover bg-center bg-no-repeat flex flex-col justify-center"
         style={{backgroundImage: `url('/images/kundli-bg.jpg')`, fontFamily: `serif`}}>
 
         <section className="text-white text-center space-y-2 px-4">
