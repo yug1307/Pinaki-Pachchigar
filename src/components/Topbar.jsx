@@ -36,6 +36,7 @@ const Topbar = () => {
             <Link to="/" onClick={() => setMenuOpen(false)}>Home</Link>
             <Link to="/about" onClick={() => setMenuOpen(false)}>About</Link>
             <Link to="/gems" onClick={() => setMenuOpen(false)}>Gemstone</Link>
+            <Link to="/contact" onClick={() => setMenuOpen(false)}>Contact</Link>
           </nav>
         </div> 
       )}
