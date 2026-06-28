@@ -13,7 +13,7 @@ const Figures = () => {
     <>
       <section className="bg-gray-900 p-12">
           
-        <div className="grid grid-cols-2 md:grid-cols-4 md:max-w-3xl mx-auto border-2 border-cyan-500 rounded-xl p-10 gap-6">
+        <div className="grid grid-cols-1 md:grid-cols-4 md:max-w-3xl mx-auto border-2 border-cyan-500 rounded-xl p-10 gap-6">
           {reasons.map((item, index) => (
 
             <div 
